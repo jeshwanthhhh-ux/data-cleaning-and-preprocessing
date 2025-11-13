@@ -1,9 +1,4 @@
 # data-cleaning-and-preprocessing
-task -1
-# ============================================
-# 📊 CUSTOMER SEGMENTATION USING K-MEANS
-# ============================================
-
 # 🔹 1. Import libraries
 import pandas as pd
 import numpy as np
